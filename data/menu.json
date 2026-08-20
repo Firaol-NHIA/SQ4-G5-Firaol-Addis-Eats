@@ -4,7 +4,7 @@
     "name": "Doro Wet",
     "category": "Main",
     "price": 450,
-    "image": "images/doro wet.jpg"
+    "image": "images/doro wet.png"
   },
   
   {
@@ -12,7 +12,7 @@
     "name": "Misir Wet",
     "category": "Vegetarian",
     "price": 150,
-    "image": "images/misir wet.jpg"
+    "image": "images/misir wet.png"
   },
 
   {
@@ -20,7 +20,7 @@
     "name": "Shiro Wet",
     "category": "Vegetarian",
     "price": 200,
-    "image": "images/shiro wet.jpg"
+    "image": "images/shiro wet.png"
   },
 
   {
@@ -28,6 +28,6 @@
     "name": "Tibs",
     "category": "Main",
     "price": 400,
-    "image": "images/tibs.jpg"
+    "image": "images/tibs.png"
   }
 ]
